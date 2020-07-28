@@ -5,9 +5,9 @@ wirzka
 wirzka@VM:~$ wirzka | more
 Hi, I'm Andrea nicknamed Wirzka
 * Military veteran
-* The techy handymen for an Italian SMB
+* The techy handyman for an Italian SMB
 * Outdoor, sports and pizza lover
-* Infosec enthusiast driven by passion, curiosity and willingness to learn.
+* Infosec enthusiast driven by passion, curiosity and willingness to learn
 ```
 
 ### InfoSec interests  :space_invader:
