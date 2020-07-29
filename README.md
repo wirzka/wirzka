@@ -21,7 +21,7 @@ Network security, penetration testing / physical penetration testing, vulnerabil
 wirzka@VM:~$ cat infosec_interestes
 * [Pwnfier](https://github.com/wirzka/pwnfier) 
 * [Netfier](https://github.com/wirzka/netfier)
-* Project Horus (Sysmon + Windows Logs + Powershell scripts + ELK Stack)
+* Project Eye of Horus (Sysmon + Windows Logs + Powershell scripts + ELK Stack)
 * CTF on [TryHackMe](https://tryhackme.com/) and [OverTheWire](https://overthewire.org/wargames/)
 ```
 
