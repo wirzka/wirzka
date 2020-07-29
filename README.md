@@ -40,6 +40,7 @@ wirzka@VM:~$ cat active_pojects
 
 ### Contacts
 * [LinkedIn](https://www.linkedin.com/in/andrea-grigoletto/)
+* [Medium](https://medium.com/@agrigoletto)
 * wiirzka@gmail.com
 
 
