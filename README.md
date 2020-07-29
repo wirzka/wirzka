@@ -18,7 +18,7 @@ Network security, penetration testing / physical penetration testing, vulnerabil
 
 ### Currently working on :octocat:
 ```console
-wirzka@VM:~$ cat infosec_interestes
+wirzka@VM:~$ cat active_pojects
 * [Pwnfier](https://github.com/wirzka/pwnfier) 
 * [Netfier](https://github.com/wirzka/netfier)
 * Project Eye of Horus (Sysmon + Windows Logs + Powershell scripts + ELK Stack)
