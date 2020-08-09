@@ -35,8 +35,10 @@ wirzka@VM:~$ cat active_pojects
 - [x] [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119367741) by Will Allsopp
 - [x] [Secrets and Lies: Digital Security in a Networked World](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119183631) by Bruce Schneier
 - [x] [Social Engineering: The Science of Human Hacking](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119433729) by Christopher Hadnagy
+- [x] [12 Rules for Life: An Antidote to Chaos](https://www.jordanbpeterson.com/12-rules-for-life/) by Jordan Peterson
+- [ ] [Silence on the wire](https://nostarch.com/silence.htm) by Michal Zalewski
 - [ ] [Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation](https://nostarch.com/networkprotocols) by James Forshaw
-- [ ] [12 Rules for Life: An Antidote to Chaos](https://www.jordanbpeterson.com/12-rules-for-life/) by Jordan Peterson
+
 
 ### Contacts
 * [LinkedIn](https://www.linkedin.com/in/andrea-grigoletto/)
