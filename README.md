@@ -5,7 +5,6 @@ wirzka
 wirzka@VM:~$ wirzka | more
 Hi, I'm Andrea nicknamed Wirzka
 * Military veteran
-* The techy handyman for an Italian SMB
 * Outdoor, sports and pizza lover
 * Infosec enthusiast driven by passion, curiosity and willingness to learn
 ```
@@ -38,7 +37,7 @@ wirzka@VM:~$ cat active_pojects
 - [x] [Social Engineering: The Science of Human Hacking](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119433729) by Christopher Hadnagy
 - [x] [12 Rules for Life: An Antidote to Chaos](https://www.jordanbpeterson.com/12-rules-for-life/) by Jordan Peterson
 - [x] [Silence on the wire](https://nostarch.com/silence.htm) by Michal Zalewski
-- [ ] [Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation](https://nostarch.com/networkprotocols) by James Forshaw
+- [x] [Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation](https://nostarch.com/networkprotocols) by James Forshaw
 
 
 ### Contacts
