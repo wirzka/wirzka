@@ -38,6 +38,7 @@ wirzka@VM:~$ cat active_pojects
 - [x] [12 Rules for Life: An Antidote to Chaos](https://www.jordanbpeterson.com/12-rules-for-life/) by Jordan Peterson
 - [x] [Silence on the wire](https://nostarch.com/silence.htm) by Michal Zalewski
 - [x] [Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation](https://nostarch.com/networkprotocols) by James Forshaw
+- [ ] [Security Engineering: A Guide to Building Dependable Distributed Systems](https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+2nd+Edition-p-9780470068526) by Ross J. Anderson
 
 
 ### Contacts
