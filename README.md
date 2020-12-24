@@ -12,7 +12,7 @@ Hi, I'm Andrea nicknamed Wirzka
 ### InfoSec interests  :space_invader:
 ```console
 wirzka@VM:~$ cat infosec_interests
-Network security, penetration testing / physical penetration testing, vulnerability assessement, threat intelligence, CTF
+Network security, penetration testing / physical penetration testing, vulnerability assessment, threat intelligence, CTF
 ```
 
 ### Currently working on :octocat:
