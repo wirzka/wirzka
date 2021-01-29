@@ -18,16 +18,21 @@ Network security, penetration testing / physical penetration testing, vulnerabil
 ### Currently working on :octocat:
 ```console
 wirzka@VM:~$ cat active_pojects
+* Cipherhound (still under development)
+* OSCP
+```
+
+### Last projects :milky_way:
+```console
 * [Pwnfier](https://github.com/wirzka/pwnfier) 
 * [Netfier](https://github.com/wirzka/netfier)
 * [ACT](https://github.com/wirzka/act)
 * Project Eye of Horus (Sysmon + Windows Logs + Powershell scripts + ELK Stack)
-* CTF on [TryHackMe](https://tryhackme.com/) and [OverTheWire](https://overthewire.org/wargames/)
 ```
 
 ---
 
-### Books to read in 2020 :books: 
+### Books to read:books: 
 - [x] [Walling Out The Insiders](https://www.routledge.com/Walling-Out-the-Insiders-Controlling-Access-to-Improve-Organizational-Security/Erbschloe/p/book/9781138031609) By Michael Erbschloe
 - [x] [Network and Data Security for Non-Engineers](https://www.oreilly.com/library/view/network-and-data/9781315350219/) by Frank M. Groom, Kevin Groom, Stephan S. Jones
 - [x] [The CISO Journey: Life Lessons and Concepts to Accelerate Your Professional Development](https://www.amazon.it/CISO-Journey-Accelerate-Professional-Development/dp/1138197394) by Eugene M Fredriksen
