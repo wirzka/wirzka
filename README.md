@@ -3,7 +3,7 @@
 wirzka@VM:~$ whoami
 wirzka
 wirzka@VM:~$ wirzka | more
-Hi, I'm Andrea nicknamed Wirzka
+Hi, I'm Andrea aka Wirzka
 * Military veteran
 * Outdoor, sports and pizza lover
 * Infosec enthusiast driven by passion, curiosity and willingness to learn
