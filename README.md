@@ -9,13 +9,13 @@ Hi, I'm Andrea aka Wirzka
 * Infosec enthusiast driven by passion, curiosity and willingness to learn
 ```
 
-### InfoSec interests  :space_invader:
+### InfoSec interests  :space_invader: 
 ```console
 wirzka@VM:~$ cat infosec_interests
 Network security, penetration testing / physical penetration testing, vulnerability assessment, threat intelligence, CTF
 ```
 
-### Currently working on :octocat:
+### Currently working on 🐱‍👤
 ```console
 wirzka@VM:~$ cat active_pojects
 * Cipherhound (still under development)
