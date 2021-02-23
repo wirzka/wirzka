@@ -4,8 +4,8 @@ wirzka@VM:~$ whoami
 wirzka
 wirzka@VM:~$ wirzka | more
 Hi, I'm Andrea aka Wirzka
-* Military veteran
-* Outdoor, sports and pizza lover
+* Military background
+* Outdoor, sports & pizza lover
 * Infosec enthusiast driven by passion, curiosity and willingness to learn
 ```
 
@@ -18,7 +18,7 @@ Network security, penetration testing / physical penetration testing, vulnerabil
 ### Currently working on 🐱‍👤
 ```console
 wirzka@VM:~$ cat active_pojects
-* Cipherhound (still under development)
+* Cipherhound (coming soon)
 * OSCP
 ```
 
