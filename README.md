@@ -15,7 +15,7 @@ wirzka@VM:~$ cat infosec_interests
 Network security, penetration testing / physical penetration testing, vulnerability assessment, threat intelligence, CTF
 ```
 
-### Currently working on 🐱‍👤
+### Currently working on :ghost:
 ```console
 wirzka@VM:~$ cat active_pojects
 * Cipherhound (coming soon)
