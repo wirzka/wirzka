@@ -18,7 +18,6 @@ Network security, penetration testing / physical penetration testing, vulnerabil
 ### Currently working on :ghost:
 ```console
 wirzka@VM:~$ cat active_pojects
-* Cipherhound (coming soon)
 * OSCP
 * [OSCP Repo](https://github.com/The-Lynx-Team/OSCP)
 ```
@@ -29,6 +28,7 @@ wirzka@VM:~$ cat active_pojects
 * [Netfier](https://github.com/wirzka/netfier)
 * [ACT](https://github.com/wirzka/act)
 * Project Eye of Horus (Sysmon + Windows Logs + Powershell scripts + ELK Stack)
+* [Cipherhound](https://github.com/wirzka/cipherhound)
 ```
 
 ---
