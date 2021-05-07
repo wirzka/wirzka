@@ -22,7 +22,7 @@ wirzka@VM:~$ cat active_pojects
 * [OSCP Repo](https://github.com/The-Lynx-Team/OSCP)
 ```
 
-### Last projects :milky_way:
+### Latest projects :milky_way:
 ```console
 * [Pwnfier](https://github.com/wirzka/pwnfier) 
 * [Netfier](https://github.com/wirzka/netfier)
