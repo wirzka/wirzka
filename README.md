@@ -12,7 +12,7 @@ Hi, I'm Andrea aka Wirzka
 ### InfoSec interests  :space_invader: 
 ```console
 wirzka@VM:~$ cat infosec_interests
-Network security, penetration testing / physical penetration testing, vulnerability assessment, threat intelligence, CTF
+Network security, penetration testing, intelligence, CTF
 ```
 
 ### Currently working on :ghost:
@@ -54,5 +54,6 @@ wirzka@VM:~$ cat active_pojects
 * [Medium](https://medium.com/@agrigoletto)
 * wiirzka@gmail.com
 
+**Beware Of Imitations!** :zany_face:
 
 
