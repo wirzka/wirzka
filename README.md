@@ -18,8 +18,7 @@ Network security, penetration testing, intelligence, CTF
 ### Currently working on :ghost:
 ```console
 wirzka@VM:~$ cat active_pojects
-* OSCP
-* [Incusore](https://github.com/wirzka/incursore)
+* [Incursore](https://github.com/wirzka/incursore)
 * [OSCP Repo](https://github.com/The-Lynx-Team/OSCP)
 ```
 
