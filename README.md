@@ -1,9 +1,7 @@
-# Andrea Grigoletto - Wirzka  
+# Wirzka  
 ```console
-wirzka@VM:~$ whoami
-wirzka
 wirzka@VM:~$ wirzka | more
-Hi, I'm Andrea aka Wirzka
+Hi, I'm wirzka
 * Military background
 * Outdoor, sports & pizza lover
 * Infosec enthusiast driven by passion, curiosity and willingness to learn
@@ -12,7 +10,7 @@ Hi, I'm Andrea aka Wirzka
 ### InfoSec interests  :space_invader: 
 ```console
 wirzka@VM:~$ cat infosec_interests
-Network security, penetration testing, intelligence, CTF
+Network security, mobile security, intelligence
 ```
 
 ### Currently working on :ghost:
@@ -51,7 +49,3 @@ wirzka@VM:~$ cat active_pojects
 ### Contacts
 * [Personal blog](https://andreagrigoletto.com/)
 * [LinkedIn](https://www.linkedin.com/in/andrea-grigoletto/)
-* [Medium](https://medium.com/@agrigoletto)
-* wiirzka@gmail.com
-
-**Beware Of Imitations!** :zany_face:
