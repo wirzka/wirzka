@@ -25,7 +25,6 @@ wirzka@VM:~$ cat active_pojects
 * [Pwnfier](https://github.com/wirzka/pwnfier) 
 * [Netfier](https://github.com/wirzka/netfier)
 * [ACT](https://github.com/wirzka/act)
-* Project Eye of Horus (Sysmon + Windows Logs + Powershell scripts + ELK Stack)
 * [Cipherhound](https://github.com/wirzka/cipherhound)
 ```
 
