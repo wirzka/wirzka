@@ -16,6 +16,7 @@ Network security, mobile security, intelligence
 ### Currently working on :ghost:
 ```console
 wirzka@VM:~$ cat active_pojects
+* [Dissecting blockchain](https://github.com/wirzka/dissecting-blockchain)
 * [Incursore](https://github.com/wirzka/incursore)
 * [OSCP Repo](https://github.com/The-Lynx-Team/OSCP)
 ```
