@@ -1,4 +1,4 @@
-# Wirzka  
+# Wirzka  🇺🇦
 ```console
 wirzka@VM:~$ wirzka | more
 Hi, I'm wirzka
