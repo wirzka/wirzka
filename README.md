@@ -7,12 +7,6 @@ Hi, I'm wirzka
 * Infosec enthusiast driven by passion, curiosity and willingness to learn
 ```
 
-### InfoSec interests  :space_invader: 
-```console
-wirzka@VM:~$ cat infosec_interests
-Network security, mobile security, intelligence
-```
-
 ### Latest projects :milky_way:
 ```console
 * [Pwnfier](https://github.com/wirzka/pwnfier) 
