@@ -1,20 +1,16 @@
 # Wirzka
-```console
-wirzka@VM:~$ wirzka | more
-Hi, I'm wirzka
-* Military background
-* Outdoor, sports & pizza lover
-* Infosec enthusiast driven by passion, curiosity and willingness to learn
-```
 
-### Latest projects :milky_way:
-```console
-* [Pwnfier](https://github.com/wirzka/pwnfier) 
-* [Netfier](https://github.com/wirzka/netfier)
-* [ACT](https://github.com/wirzka/act)
-* [Cipherhound](https://github.com/wirzka/cipherhound)
-* [Incursore](https://github.com/wirzka/incursore)
-```
+> 1. Do not think dishonestly
+> 2. The Way is in training
+> 3. Become acquainted with every art
+> 4. Know the Ways of all professions
+> 5. Distinguish between gain and loss in worldly matters
+> 6. Develop intuitive judgment and understanding of everything
+> 7. Perceive those things which cannot be seen
+> 8. Pay attention even to trifles
+> 9. Do nothing which is of no use
+> 
+> _Miyamoto Musashi_
 
 ---
 
