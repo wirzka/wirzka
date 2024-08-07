@@ -14,7 +14,7 @@
 
 ---
 
-### Books to read:books: 
+### Books to read :books: 
 - [Walling Out The Insiders](https://www.routledge.com/Walling-Out-the-Insiders-Controlling-Access-to-Improve-Organizational-Security/Erbschloe/p/book/9781138031609) By Michael Erbschloe
 - [Network and Data Security for Non-Engineers](https://www.oreilly.com/library/view/network-and-data/9781315350219/) by Frank M. Groom, Kevin Groom, Stephan S. Jones
 - [The CISO Journey: Life Lessons and Concepts to Accelerate Your Professional Development](https://www.amazon.it/CISO-Journey-Accelerate-Professional-Development/dp/1138197394) by Eugene M Fredriksen
@@ -27,7 +27,10 @@
 - [Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation](https://nostarch.com/networkprotocols) by James Forshaw
 - [Security Engineering: A Guide to Building Dependable Distributed Systems](https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+2nd+Edition-p-9780470068526) by Ross J. Anderson
 - [The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics](https://www.hup.harvard.edu/catalog.php?isbn=9780674987555) by Ben Buchanan
+- [AI & Conflicts. Volume 1](https://www.krisispublishing.com/prodotto/ai-conflicts-volume-1/) by Paglen, Crawford & Joler, Pasquinelli, Brunton & Nissenbaum, Weizman, Iaconesi & Persico, Manovich, Crespo & McCormick
+- [If It’s Smart, It’s Vulnerable](https://www.ifitssmartitsvulnerable.com/) by Mikko Hypponen
+
 
 ### Contacts
-* [Personal blog](https://andreagrigoletto.com/)
+* [Personal blog](https://grig.ooo)
 * [LinkedIn](https://www.linkedin.com/in/andrea-grigoletto/)
